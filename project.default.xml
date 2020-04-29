@@ -1,0 +1,84 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/IdeaProjects/Sharding-JDBC" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/workspace/sail-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/analysisexcel" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/query-dsl-jpa-example-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/querydsl-jpa" value="PREVIEW" />
+            <entry key="$USER_HOME$/common" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/LogStashTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/ReConvertPlayback" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/TransactionalTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/api-tools" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/blog-mysql2mongo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/blogapi" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/chunk-upload-spring-boot-starter" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-classroom" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-cron-stat" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-finance" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-migaloo-v2" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-portal-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-starter-sdk-saas" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-turbo-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/dby-turbo-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/duobeiyun-api-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/fake-bill-record" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/finance-audit" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/helloworld" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/invitation-code-refund" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/lb-redis-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/migaloo-v3" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/nebula-meeting" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/nebula-turbo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/newblog" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/ppt2html" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/report" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/report-migaloo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sail-admin" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sail-platform" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sail-plutus" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sail-portal-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sail-scheduler" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sms" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/starter-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/sync-class" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/testMQ" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/todo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/video-export" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/webTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/webflux" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wxopenclass" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/zwt-server-portal" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
