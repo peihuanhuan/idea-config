@@ -1,0 +1,7 @@
+<application>
+  <component name="EasyApiSetting">
+    <option name="postmanToken" value="" />
+    <option name="yapiServer" value="" />
+    <option name="yapiTokens" value="" />
+  </component>
+</application>
