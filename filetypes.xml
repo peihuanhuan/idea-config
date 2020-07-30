@@ -4,8 +4,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="build-docker-fe.sh" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="2017年RoomId" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
