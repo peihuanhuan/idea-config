@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="v 1" />
       <item value="/**  * Awaits for completion of given deferred values without blocking a thread and resumes normally with the list of values  * when all deferred computations are complete or resumes with the first thrown exception if any of computations  * complete exceptionally including cancellation.  *  * This function is **not** equivalent to `this.map { it.await() }` which fails only when when it sequentially  * gets to wait the failing deferred, while this `awaitAll` fails immediately as soon as any of the deferreds fail.  *  * This suspending function is cancellable.  * If the [Job] of the current coroutine is cancelled or completed while this suspending function is waiting,  * this function immediately resumes with [CancellationException].  */" />
     </histories>
     <option name="languageScores">
