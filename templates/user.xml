@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="klog" value="companion object: mu.KLogging()" toReformat="false" toShortenFQNames="true">
+  <template name="klog" value="companion object: mu.KLogging()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
