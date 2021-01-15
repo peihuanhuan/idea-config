@@ -1,5 +1,9 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -8,6 +12,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
     <keyboard-shortcut first-keystroke="shift ctrl u" />
@@ -25,6 +30,8 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
   <action id="ToggleBookmark6" />
   <action id="openAssertEqualsDiff" />
 </keymap>
