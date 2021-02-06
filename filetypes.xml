@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="2017年RoomId" type="PLAIN_TEXT" />
       <mapping pattern="config.conf" type="PLAIN_TEXT" />
       <mapping pattern="build-docker-fe.sh" type="PLAIN_TEXT" />
@@ -8,8 +10,6 @@
       <mapping ext="factories" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
